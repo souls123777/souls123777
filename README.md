@@ -1,7 +1,5 @@
 # Дмитрий Душенко
 
-![Avatar](https://your-host.com/anime_coder.png)
-
 **Backend Developer**  
 Java • PHP • Python
 

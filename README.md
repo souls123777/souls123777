@@ -10,7 +10,7 @@ Java • PHP • Python
 ---
 
 ## Public Projects
-- [Python] (https://github.com/souls123777/netspeed)
+- [Python](https://github.com/souls123777/netspeed)
 - [PHP](https://github.com/souls123777/payment-gateways) - Symfony
 - [java](https://github.com/souls123777/java) — Spring Boot API
 ---
